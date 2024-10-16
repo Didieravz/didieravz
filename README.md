@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola, soy un ingeniero programador especializado en Java con más de 2 años de experiencia en el desarrollo de aplicaciones. Me apasiona resolver problemas complejos y crear soluciones eficientes que impacten positivamente a los usuarios.<br><br>Actualmente, estoy en un proceso continuo de aprendizaje, explorando nuevas tecnologías y herramientas para mejorar mis habilidades y adaptarme a un entorno en constante cambio. Disfruto colaborar en proyectos desafiantes y compartir conocimientos con la comunidad.
+Hello, I'm a software engineer specializing in Java with over 2 years of experience in application development. I am passionate about solving complex problems and creating efficient solutions that positively impact users.<br><br>Currently, I am on a continuous learning journey, exploring new technologies and tools to enhance my skills and adapt to a constantly changing environment. I enjoy collaborating on challenging projects and sharing knowledge with the community.
 
 
 ## 🌐 Socials:
